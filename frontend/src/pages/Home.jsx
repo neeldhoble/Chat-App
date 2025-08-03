@@ -1,7 +1,7 @@
 import React from 'react'
 import { useAuth } from '../context/authContext'
 import MessageContainer from '../components/MessageContainer'
-import Sidebar from '../components/sidebar'
+import Sidebar from '../components/Sidebar'
 import { useState } from 'react'
 
 const Home = () => {
