@@ -1,4 +1,4 @@
-import User from "../models/userModels.js";
+import User from "../Models/userModels.js";
 import Conversation from '../Models/conversationModels.js';
 
 
